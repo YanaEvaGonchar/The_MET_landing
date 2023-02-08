@@ -11,7 +11,7 @@ This is a landing page dedicated to the Metropolitan Museum of Art. Layout is fu
 - JavaScript
 
 ## Demo
-[DEMO LINK](https://YanaEvaGonchar.github.io/<repo_name>/)
+[DEMO LINK](https://YanaEvaGonchar.github.io/The_MET_landing/)
 
 ## Design
 Figma design you can find [HERE](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29)
