@@ -1,7 +1,15 @@
 # The MET Landing
 
 ## General info
-This is a landing page dedicated to the Metropolitan Museum of Art. Layout is fully responsive on mobile phones, tablets, laptops and high screens.
+This is a landing page dedicated to the Metropolitan Museum of Art.
+
+* Layout is fully responsive on mobile phones, tablets, laptops and high screens.
+* Burger menu can open and close.
+* All telephone and email links are clickable.
+* The information form has adittional validation.
+* Page has animation and transition on product cards and buttons.
+* Anchore targets were implemented for navigation within the same page.
+* The project is SEO friendly.
 
 ## Demo
 [DEMO LINK](https://YanaEvaGonchar.github.io/The_MET_landing/)
